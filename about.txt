@@ -1,0 +1,12 @@
+First semester 2017:
+
+Extracurricular Activities:
+2017/02 - Undergraduate Research with Associate Professor Gustavo Batista (https://goo.gl/ePhT5y) on lasers
+2017/04 - student representative on Systems Information course comission
+2017 - Class representative
+
+Minicourses:
+18-20 july, 2017 - Introduction to Python with Django
+ 
+Self-Learning Activities:
+Tkinter (Python3)

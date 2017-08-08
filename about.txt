@@ -6,7 +6,10 @@ Extracurricular Activities:
 2017 - Class representative
 
 Minicourses:
-18-20 july, 2017 - Introduction to Python with Django
+18-20 july, 2017 - Introduction to Python with Django (24h)
+08 august, 2017  - MEAN - Full Stack JavaScript (8h)
+11 august, 2017  - Introduction to Machine Learning (8h)
+
  
 Self-Learning Activities:
 Tkinter (Python3)
